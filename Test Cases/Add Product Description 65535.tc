@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tase case untuk menyimpan produk dengan panjang karakter nama 255</description>
+   <name>Add Product Description 65535</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee03fa31-056a-4535-8ac5-89606e6f616c</testCaseGuid>
+</TestCaseEntity>
